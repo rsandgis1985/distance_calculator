@@ -1,5 +1,7 @@
 ═══════════════════════════════════════════════════════════
+
 Site Distance Calculator - Help Document
+
 ═══════════════════════════════════════════════════════════
 
 [Explanation of Calculation Method]
@@ -125,5 +127,7 @@ Core libraries: pandas, numpy, matplotlib, tkinter
 • Angle unit: degrees (input) → radians (calculation)
 
 ═══════════════════════════════════════════════════════════
+
 Version: 1.0 | Author: GitHub Copilot | Date: December 12, 2025
+
 ═══════════════════════════════════════════════════════════
